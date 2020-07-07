@@ -1,0 +1,9 @@
+h1{text-align: center;
+color:blue;
+font-weight: bold;
+font-style: italic;}
+#frank{border: 10px solid;
+border-style: groove;
+display: block;
+margin-left: auto;
+margin-right: auto;}
